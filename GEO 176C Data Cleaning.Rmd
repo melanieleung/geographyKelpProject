@@ -1,0 +1,22 @@
+---
+title: "GEO 176C Data Cleanup"
+author: "Dimitri Kasiouleris"
+date: "4/30/2021"
+output: pdf_document
+---
+
+
+#Data Cleaning 
+```{r}
+
+
+
+
+
+
+
+
+
+
+```
+
