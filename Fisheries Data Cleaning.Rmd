@@ -1,0 +1,14 @@
+---
+title: "Fisheries Data Cleaning"
+author: "Dimitri Kasiouleris"
+date: "5/1/2021"
+output: pdf_document
+---
+
+Methods
+```{r}
+#List of kelp forest fish species 
+##sheephead, sea urchin(all), rockfish, cabezon, spiny lobster, giant kelpfish,scorpionfish, giant sea bass, kelp bass
+###Filter datat to only include these species, and none else
+```
+
