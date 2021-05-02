@@ -1,0 +1,291 @@
+Species ,Pounds ,Value ,County
+"Crab, Dungeness ","1,947,108",6035221.00,San Francisco County
+"Salmon, Chinook ","508,862",3092515.00,San Francisco County
+"Halibut, California ","265,286",1577690.00,San Francisco County
+Swordfish ,"95,004",314735.00,San Francisco County
+Sablefish ,"220,348",298144.00,San Francisco County
+"Tuna, bigeye ","47,601",136429.00,San Francisco County
+"Tuna, albacore ","63,255",69605.00,San Francisco County
+"Seabass, white ","9,509",64204.00,San Francisco County
+Opah ,"35,325",32125.00,San Francisco County
+Lingcod ,"12,629",30868.00,San Francisco County
+"Rockfish, bocaccio ","102,592",27419.00,San Francisco County
+"Tuna, yellowfin ","7,448",20668.00,San Francisco County
+"Rockfish, brown ","3,889",19035.00,San Francisco County
+"Rockfish, group bolina ","2,339",12869.00,San Francisco County
+"Rockfish, chilipepper ","49,808",12603.00,San Francisco County
+"Flounder, starry ","12,852",12559.00,San Francisco County
+"Sole, petrale ","41,097",11894.00,San Francisco County
+"Sole, sand ","10,201",10212.00,San Francisco County
+"Rockfish, gopher ","1,246",6550.00,San Francisco County
+Anemones ,"1,617",5660.00,San Francisco County
+Thornyheads ,695,5560.00,San Francisco County
+"Shark, shortfin mako ","4,339",3819.00,San Francisco County
+"Rockfish, vermilion ","1,205",3316.00,San Francisco County
+"Rockfish, canary ","2,499",3187.00,San Francisco County
+Wahoo ,"3,060",3082.00,San Francisco County
+"Rockfish, blackgill ","1,907",2644.00,San Francisco County
+"Salmon, Roe (Chinook, Coho) ",394,2225.00,San Francisco County
+"Shark, thresher ","2,943",2207.00,San Francisco County
+Pomfret ,"1,076",2151.00,San Francisco County
+Dolphin (fish) ,"1,788",1768.00,San Francisco County
+"Rockfish, yellowtail ","2,814",1746.00,San Francisco County
+"Rockfish, bank ","5,040",1686.00,San Francisco County
+"Greenling, rock ",530,1482.00,San Francisco County
+"Anchovy, northern ","2,342",1476.00,San Francisco County
+Escolar ,"1,990",1393.00,San Francisco County
+"Rockfish, copper ",263,1320.00,San Francisco County
+"Rockfish, widow ","4,998",1287.00,San Francisco County
+"Greenling, kelp ",390,1210.00,San Francisco County
+"Shark, leopard ","1,331",1021.00,San Francisco County
+"Shark, soupfin ","1,156",985.00,San Francisco County
+"Tuna, skipjack ","1,469",815.00,San Francisco County
+"Rockfish, black ",355,761.00,San Francisco County
+"Shark, unspecified ","1,027",758.00,San Francisco County
+"Prickleback, monkeyface (eel) ",70,745.00,San Francisco County
+"Crab, rock unspecified ",216,727.00,San Francisco County
+"Crab, red rock ",195,698.00,San Francisco County
+Cabezon ,222,661.00,San Francisco County
+"Rockfish, splitnose ","11,135",577.00,San Francisco County
+"Rockfish, blue ",232,475.00,San Francisco County
+"Halibut, unspecified ",103,412.00,San Francisco County
+"Jacks, unspecified ",42,294.00,San Francisco County
+"Rockfish, group gopher ",50,250.00,San Francisco County
+Oilfish ,311,218.00,San Francisco County
+"Croaker, white ",49,170.00,San Francisco County
+"Rockfish, China ",32,148.00,San Francisco County
+"Rockfish, quillback ",29,122.00,San Francisco County
+"Rockfish, unspecified ",129,80.00,San Francisco County
+"Eel, wolf (wolf-eel) ",49,74.00,San Francisco County
+"Bass, giant sea ",17,58.00,San Francisco County
+"Rockfish, rosy ",29,58.00,San Francisco County
+"Shark, white ",50,50.00,San Francisco County
+"Shark, spiny dogfish ","4,772",48.00,San Francisco County
+"Skate, longnose ","4,249",38.00,San Francisco County
+"Shark, blue ",13,26.00,San Francisco County
+"Tuna, blackfin ",12,24.00,San Francisco County
+"Mackerel, unspecified ",243,23.00,San Francisco County
+Yellowtail ,10,20.00,San Francisco County
+"Rockfish, speckled ",40,20.00,San Francisco County
+"Guitarfish, shovelnose ",3,18.00,San Francisco County
+"Rockfish, black-and-yellow ",8,16.00,San Francisco County
+"Rockfish, greenspotted ",149,11.00,San Francisco County
+"Rockfish, starry ",2,6.00,San Francisco County
+Grenadier ,13,3.00,San Francisco County
+"Sanddab, Pacific ",528,3.00,San Francisco County
+"Rockfish, darkblotched ",15,1.00,San Francisco County
+"Rockfish, cowcod ",300,0.00,San Francisco County
+"Sole, rock ",168,0.00,San Francisco County
+"Skate, unspecified ",476,0.00,San Francisco County
+"Fish, unspecified ",1,0.00,San Francisco County
+"Ray, Pacific electric ",2,0.00,San Francisco County
+"Herring, Pacific ",1,0.00,San Francisco County
+"Ratfish, spotted ","4,782",0.00,San Francisco County
+"Sole, curlfin ",37,0.00,San Francisco County
+"Sole, English ",752,0.00,San Francisco County
+"Rockfish, greenstriped ",45,0.00,San Francisco County
+"Sunfish, ocean ",76,0.00,San Francisco County
+Turbot ,1,0.00,San Francisco County
+"Rockfish, group shelf ",757,0.00,San Francisco County
+"Thornyhead, longspine ",6,0.00,San Francisco County
+"Sole, unspecified ",8,0.00,San Francisco County
+"Rockfish, shortbelly ",570,0.00,San Francisco County
+"Skate, California ",200,0.00,San Francisco County
+"Rockfish, stripetail ",366,0.00,San Francisco County
+"Shark, brown smoothhound ",25,0.00,San Francisco County
+"Flounder, arrowtooth ",403,0.00,San Francisco County
+"Thornyhead, shortspine ",17,0.00,San Francisco County
+"Skate, big ",941,0.00,San Francisco County
+"Rockfish, rosethorn ",1,0.00,San Francisco County
+"Squid, market ",30,0.00,San Francisco County
+Eel ,5,0.00,San Francisco County
+"Sole, slender ",1,0.00,San Francisco County
+"Rockfish, redbanded ",29,0.00,San Francisco County
+"Shad, American ",90,0.00,San Francisco County
+"Whiting, Pacific ","4,166",0.00,San Francisco County
+"Rockfish, yelloweye ",1,0.00,San Francisco County
+"Surfperch, unspecified ",6,0.00,San Francisco County
+"Sole, rex ",556,0.00,San Francisco County
+"Eel, California moray ",2,0.00,San Francisco County
+"Midshipman, plainfin ",6,0.00,San Francisco County
+"Mackerel, jack ",3,0.00,San Francisco County
+"Sole, Dover ","1,926",0.00,San Francisco County
+"Crab, Dungeness ","1,379,837",4788912.00,San Mateo County
+"Salmon, Chinook ","495,369",3212604.00,San Mateo County
+"Halibut, California ","65,284",348187.00,San Mateo County
+"Prawn, spot ","19,377",337511.00,San Mateo County
+"Squid, market ","446,020",223855.00,San Mateo County
+"Sole, petrale ","214,397",202892.00,San Mateo County
+Sablefish ,"42,918",121122.00,San Mateo County
+"Anchovy, northern ","1,756,152",87808.00,San Mateo County
+"Rockfish, bocaccio ","145,412",62389.00,San Mateo County
+"Sea urchin, red ","6,506",56606.00,San Mateo County
+"Tuna, albacore ","22,074",55727.00,San Mateo County
+"Rockfish, chilipepper ","107,740",47845.00,San Mateo County
+"Crab, rock unspecified ","17,054",41026.00,San Mateo County
+"Rockfish, blue ","6,191",28078.00,San Mateo County
+Lingcod ,"12,723",24035.00,San Mateo County
+"Sanddab, Pacific ","32,818",15880.00,San Mateo County
+"Crab, red rock ","10,513",15050.00,San Mateo County
+"Rockfish, brown ","2,110",13823.00,San Mateo County
+"Rockfish, vermilion ","1,851",10202.00,San Mateo County
+"Rockfish, canary ","3,945",8323.00,San Mateo County
+Swordfish ,"2,561",8323.00,San Mateo County
+"Rockfish, yellowtail ","1,322",7966.00,San Mateo County
+"Flounder, starry ","6,675",6343.00,San Mateo County
+"Rockfish, olive ","1,273",5938.00,San Mateo County
+"Sole, sand ","3,558",3542.00,San Mateo County
+"Croaker, white ",789,3259.00,San Mateo County
+"Rockfish, widow ","2,456",3058.00,San Mateo County
+"Shark, salmon ",357,2499.00,San Mateo County
+"Rockfish, black ",351,2012.00,San Mateo County
+"Rockfish, copper ",256,1742.00,San Mateo County
+"Seabass, white ",342,1481.00,San Mateo County
+"Crab, box ",549,1481.00,San Mateo County
+"Skate, longnose ","7,089",1407.00,San Mateo County
+"Rockfish, splitnose ","6,683",1400.00,San Mateo County
+"Crab, brown rock ",457,752.00,San Mateo County
+"Shark, thresher ",508,635.00,San Mateo County
+"Sole, English ","3,742",628.00,San Mateo County
+"Crab, yellow rock ",416,582.00,San Mateo County
+"Sole, curlfin ",774,581.00,San Mateo County
+Turbot ,557,473.00,San Mateo County
+"Octopus, unspecified ",536,456.00,San Mateo County
+"Sardine, Pacific ","7,146",357.00,San Mateo County
+"Shark, shortfin mako ",280,350.00,San Mateo County
+"Rockfish, cowcod ","1,236",326.00,San Mateo County
+"Rockfish, rosy ",54,321.00,San Mateo County
+Salmon ,51,281.00,San Mateo County
+"Rockfish, starry ",47,279.00,San Mateo County
+"Rockfish, gopher ",48,240.00,San Mateo County
+"Flounder, arrowtooth ",868,230.00,San Mateo County
+"Salmon, Roe (Chinook, Coho) ",68,203.00,San Mateo County
+"Shark, soupfin ",435,200.00,San Mateo County
+"Greenling, kelp ",26,130.00,San Mateo County
+"Rockfish, group bolina ",34,57.00,San Mateo County
+Yellowtail ,7,49.00,San Mateo County
+"Rockfish, shortbelly ","6,052",40.00,San Mateo County
+"Rockfish, greenspotted ",175,34.00,San Mateo County
+"Sole, rock ",84,34.00,San Mateo County
+"Rockfish, China ",5,32.00,San Mateo County
+"Mackerel, Pacific ",159,28.00,San Mateo County
+"Skate, unspecified ",88,26.00,San Mateo County
+"Shark, spiny dogfish ",324,24.00,San Mateo County
+"Rockfish, group shelf ",533,21.00,San Mateo County
+"Rockfish, flag ",3,18.00,San Mateo County
+"Shark, unspecified ",17,17.00,San Mateo County
+"Rockfish, quillback ",2,14.00,San Mateo County
+"Rockfish, greenstriped ","3,016",14.00,San Mateo County
+"Prickleback, monkeyface (eel) ",10,10.00,San Mateo County
+"Eel, wolf (wolf-eel) ",7,7.00,San Mateo County
+"Sole, rex ","1,400",6.00,San Mateo County
+Cabezon ,2,6.00,San Mateo County
+"Ratfish, spotted ",340,6.00,San Mateo County
+"Skate, big ",24,5.00,San Mateo County
+"Rockfish, group canary/vermili ",9,5.00,San Mateo County
+Sanddab ,1,4.00,San Mateo County
+"Rockfish, group slope ",15,2.00,San Mateo County
+"Sole, Dover ",262,2.00,San Mateo County
+"Rockfish, blackgill ",5,1.00,San Mateo County
+"Skate, California ",5,1.00,San Mateo County
+"Rockfish, darkblotched ",2,1.00,San Mateo County
+"Mackerel, jack ",38,0.00,San Mateo County
+"Rockfish, yelloweye ",2,0.00,San Mateo County
+"Midshipman, plainfin ",4,0.00,San Mateo County
+Jellyfish ,562,0.00,San Mateo County
+"Mackerel, unspecified ",3,0.00,San Mateo County
+"Whiting, Pacific ",440,0.00,San Mateo County
+"Rockfish, stripetail ","1,045",0.00,San Mateo County
+"Shrimp, bay ",0,0.00,San Mateo County
+"Thornyhead, shortspine ",15,0.00,San Mateo County
+"Crab, Dungeness ","395,757",1187271.00,Solano County
+"Shrimp, bay ","6,655",32168.00,Solano County
+Sablefish ,956,2588.00,Solano County
+"Bullhead, brown ",94,277.00,Solano County
+"Midshipman, plainfin ",99,144.00,Solano County
+"Goby, yellowfin ",61,122.00,Solano County
+"Sculpin, staghorn ",43,93.00,Solano County
+"Spiders, sea ",35,70.00,Solano County
+"Salmon, Chinook ","7,169",55098.00,Alameda County
+"Halibut, California ","8,060",54847.00,Alameda County
+"Crab, Dungeness ","12,535",41974.00,Alameda County
+"Rockfish, brown ","2,143",13581.00,Alameda County
+"Seabass, white ","1,196",8861.00,Alameda County
+"Rockfish, group bolina ","1,700",6799.00,Alameda County
+"Surfperch, black ","1,119",4162.00,Alameda County
+Sablefish ,"1,302",2928.00,Alameda County
+"Crab, yellow rock ","1,105",1934.00,Alameda County
+"Seaperch, striped ",346,1486.00,Alameda County
+Lingcod ,348,1050.00,Alameda County
+"Surfperch, rubberlip ",188,820.00,Alameda County
+"Tuna, albacore ",176,703.00,Alameda County
+"Shark, leopard ",484,484.00,Alameda County
+"Shark, brown smoothhound ",58,290.00,Alameda County
+"Surfperch, pile ",52,238.00,Alameda County
+"Salmon, Roe (Chinook, Coho) ",44,163.00,Alameda County
+"Smelts, true ",91,91.00,Alameda County
+"Rockfish, blue ",22,83.00,Alameda County
+"Rockfish, unspecified ",39,78.00,Alameda County
+"Rockfish, black ",26,65.00,Alameda County
+"Ray, bat ",30,60.00,Alameda County
+"Crab, brown rock ",20,60.00,Alameda County
+"Rockfish, copper ",3,7.00,Alameda County
+"Perch-like, unspecified ",7,7.00,Alameda County
+"Surfperch, rainbow ",1,6.00,Alameda County
+"Sole, petrale ",2,0.00,Alameda County
+"Rockfish, canary ",76,0.00,Alameda County
+"Rockfish, group deep nearshore ",120,0.00,Alameda County
+"Rockfish, yellowtail ",110,0.00,Alameda County
+"Halibut, California ","8,629",55918.00,Marin County
+"Salmon, Chinook ","3,024",20127.00,Marin County
+Lingcod ,"1,283",5637.00,Marin County
+"Seabass, white ",681,5186.00,Marin County
+"Rockfish, unspecified ",704,3992.00,Marin County
+"Tuna, albacore ",165,1807.00,Marin County
+Sablefish ,600,1275.00,Marin County
+Salmon ,154,1198.00,Marin County
+"Crab, Dungeness ",222,1047.00,Marin County
+"Halibut, unspecified ",91,972.00,Marin County
+"Prickleback, monkeyface (eel) ",35,350.00,Marin County
+"Rockfish, yellowtail ",88,308.00,Marin County
+"Rockfish, canary ",36,126.00,Marin County
+"Rockfish, vermilion ",11,53.00,Marin County
+"Rockfish, blackgill ",10,0.00,Marin County
+Sausalito Port Totals: ,"15,732",97996.00,Marin County
+"Crab, Dungeness ","12,755",57971.00,Alameda County
+"Halibut, California ","4,425",29810.00,Alameda County
+"Salmon, Chinook ",149,987.00,Alameda County
+Lingcod ,75,263.00,Alameda County
+"Seabass, white ",37,250.00,Alameda County
+"Seaperch, striped ",50,100.00,Alameda County
+"Rockfish, vermilion ",15,37.00,Alameda County
+"Rockfish, canary ",8,21.00,Alameda County
+"Rockfish, yellowtail ",8,20.00,Alameda County
+Jacksmelt ,6,6.00,Alameda County
+"Crab, Dungeness ","27,530",82590.00,Alameda County
+"Halibut, California ",881,5568.00,Alameda County
+"Halibut, California ","5,841",40700.00,San Mateo County
+"Salmon, Chinook ","4,602",32190.00,San Mateo County
+Sablefish ,274,1329.00,San Mateo County
+Lingcod ,268,917.00,San Mateo County
+"Seabass, white ",53,369.00,San Mateo County
+"Rockfish, vermilion ",19,38.00,San Mateo County
+"Halibut, California ","4,461",30726.00,Contra Costa County
+Lingcod ,"1,330",6367.00,Contra Costa County
+"Salmon, Chinook ",857,5925.00,Contra Costa County
+"Shark, leopard ",405,405.00,Contra Costa County
+"Seabass, white ",30,210.00,Contra Costa County
+"Rockfish, group bolina ",19,95.00,Contra Costa County
+"Rockfish, vermilion ",7,33.00,Contra Costa County
+"Rockfish, canary ",5,20.00,Contra Costa County
+"Guitarfish, shovelnose ",15,15.00,Contra Costa County
+"Halibut, California ","14,932",22438.00,Marin County
+"Seabass, white ",732,732.00,Marin County
+"Salmon, Chinook ",66,417.00,Marin County
+San Rafael Port Totals: ,"15,730",23587.00,Marin County
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
