@@ -15,35 +15,37 @@ Methods
 ```{r}
 library(dplyr)
 library(stringr)
-
-
 ```
 
-Eureka
+Combined and Cleaned Fisheries Data
 ```{r}
 eureka <- read.csv("Table16PUB_2019_ADA.csv")
 
-eureka <- eureka  %>% filter(str_detect(Species, "Rockfish|Sheephead|Sea Urchin|Cabezon|Lobster|Kelpfish|Scorpionfish|Sea Bass|Kelp Bass|Sea Urchin"))
-
-eureka[,c("Species", "Pounds")] <- NULL
-
-eureka <- eureka %>% group_by(County) %>% summarise(Total_Value = sum(Value))
-
-
-
-
-
-```
-
-San Francisco Area
-```{r}
 bay_area <- read.csv("table17PUB_2019.csv")
 
+monterey <- read.csv("Table18PUB_2019_ADA.csv")
 
+sb <- read.csv("Table19PUB_2019_ADA.csv")
 
+Sonoma <- read.csv("Table21BBPUB_2019_ADA.csv")
 
+mendicino <- read.csv("Table21FBPUB_2019_ADA.csv")
 
+mendicino <- rename(mendicino, Species = Species.Pounds.Value)
 
+slo <- read.csv("Table21MBPUB_2019_ADA.csv")
+
+san_diego <- read.csv("Table21SDPUB_2019_ADA.csv")
+
+combined_data <- do.call("rbind", list(eureka, bay_area, monterey, sb, Sonoma, mendicino, slo, san_diego))
+
+combined_data <- combined_data  %>% filter(str_detect(Species, "Rockfish|Sheephead|Sea Urchin|Cabezon|Lobster|Kelpfish|Scorpionfish|Sea Bass|Kelp Bass|Sea Urchin"))
+
+combined_data[,c("Species", "Pounds")] <- NULL
+
+combined_data <- combined_data %>% mutate(Value = as.numeric(Value))
+
+combined_data <- combined_data %>% group_by(County) %>% summarise(total_value = sum(Value))
 ```
 
 
