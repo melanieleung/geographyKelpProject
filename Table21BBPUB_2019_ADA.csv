@@ -1,0 +1,53 @@
+Species ,Pounds ,Value ,County
+"Crab, Dungeness ","1,717,680",5498441.00,Sonoma
+"Salmon, Chinook ","568,468",3373634.00,Sonoma
+"Hagfish, Pacific ","316,459",237344.00,Sonoma
+Sablefish ,"32,150",103072.00,Sonoma
+"Hagfish, unspecified ","34,832",26124.00,Sonoma
+Lingcod ,"5,962",23798.00,Sonoma
+"Tuna, albacore ","14,229",20780.00,Sonoma
+Salmon ,"1,606",13902.00,Sonoma
+"Rockfish, chilipepper ","4,267",10768.00,Sonoma
+"Rockfish, bocaccio ","3,409",8665.00,Sonoma
+"Sea urchin, purple ","3,826",7678.00,Sonoma
+"Rockfish, yellowtail ","2,045",4351.00,Sonoma
+"Crab, rock unspecified ","1,902",3180.00,Sonoma
+"Rockfish, bank ","1,163",2957.00,Sonoma
+"Halibut, California ",515,2933.00,Sonoma
+"Sea cucumber, giant red ",541,2705.00,Sonoma
+"Sea urchin, red ","1,040",2080.00,Sonoma
+"Rockfish, blackgill ",816,1389.00,Sonoma
+"Mackerel, jack ",142,377.00,Sonoma
+"Rockfish, canary ",188,354.00,Sonoma
+"Salmon, Roe (Chinook, Coho) ",28,280.00,Sonoma
+"Rockfish, speckled ",89,207.00,Sonoma
+"Rockfish, redbanded ",59,200.00,Sonoma
+"Rockfish, vermilion ",97,172.00,Sonoma
+"Mackerel, unspecified ",74,90.00,Sonoma
+"Rockfish, unspecified ",21,48.00,Sonoma
+"Rockfish, brown ",25,44.00,Sonoma
+"Rockfish, widow ",51,35.00,Sonoma
+"Rockfish, darkblotched ",4,16.00,Sonoma
+"Rockfish, aurora ",9,16.00,Sonoma
+"Crab, Dungeness ","20,780",83089.00,Sonoma
+"Salmon, Chinook ","6,751",64816.00,Sonoma
+"Halibut, California ","3,472",26387.00,Sonoma
+Sablefish ,982,4419.00,Sonoma
+"Rockfish, chilipepper ","1,183",2958.00,Sonoma
+"Tuna, albacore ",533,2454.00,Sonoma
+"Rockfish, bocaccio ",732,1830.00,Sonoma
+"Rockfish, bank ",311,778.00,Marin
+"Croaker, white ",239,717.00,Marin
+"Rockfish, blackgill ",80,200.00,Marin
+"Rockfish, brown ",12,36.00,Marin
+Lingcod ,5,0.00,Marin
+"Halibut, California ",557,1434.00,Marin
+"Seabass, white ",23,90.00,Marin
+"Sardine, Pacific ",720,0.00,Marin
+Sablefish ,"1,168",4466.00,Marin
+"Salmon, Chinook ",440,3338.00,Marin
+"Halibut, California ",428,2708.00,Marin
+Lingcod ,388,1552.00,Marin
+"Crab, rock unspecified ",479,1436.00,Marin
+"Rockfish, unspecified ",194,777.00,Marin
+"Shark, thresher ",32,32.00,Marin
