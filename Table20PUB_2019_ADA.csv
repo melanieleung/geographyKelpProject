@@ -1,0 +1,397 @@
+Species ,Pounds ,Value ,County
+"Squid, market ","10,813,906",5405424.00,Los Angeles
+"Sea urchin, red ","772,184",1634991.00,Los Angeles
+"Prawn, spot ","75,644",1143207.00,Los Angeles
+"Mackerel, Pacific ","4,929,804",710119.00,Los Angeles
+"Tuna, albacore ","160,835",256350.00,Los Angeles
+"Tuna, yellowfin ","498,662",239716.00,Los Angeles
+"Tuna, bigeye ","82,455",235371.00,Los Angeles
+"Lobster, California spiny ","15,739",217891.00,Los Angeles
+"Tuna, bluefin ","348,730",188887.00,Los Angeles
+Swordfish ,"54,520",155324.00,Los Angeles
+"Sardine, Pacific ","950,566",105913.00,Los Angeles
+"Sea cucumber, warty ","16,399",92171.00,Los Angeles
+Opah ,"48,756",40994.00,Los Angeles
+"Seabass, white ","10,707",36394.00,Los Angeles
+"Hagfish, Pacific ","25,669",27841.00,Los Angeles
+"Halibut, California ","5,159",23469.00,Los Angeles
+Sablefish ,"5,834",16688.00,Los Angeles
+"Prawn, ridgeback ","5,204",12923.00,Los Angeles
+Flyingfish ,"3,942",11825.00,Los Angeles
+"Shark, shortfin mako ","10,608",9954.00,Los Angeles
+"Shark, thresher ","12,335",8496.00,Los Angeles
+Wahoo ,"2,673",5441.00,Los Angeles
+Thornyheads ,873,5238.00,Los Angeles
+Pomfret ,"2,879",4861.00,Los Angeles
+Sea hare ,455,4552.00,Los Angeles
+"Sea cucumber, giant red ",577,3464.00,Los Angeles
+"Shark, blue ","16,200",3240.00,Los Angeles
+Escolar ,"3,087",2727.00,Los Angeles
+"Tuna, skipjack ","6,726",2676.00,Los Angeles
+"Sea urchin, purple ",359,2298.00,Los Angeles
+"Bass, giant sea ","1,008",2012.00,Los Angeles
+"Sea urchin, white ",177,1698.00,Los Angeles
+"Whelk, Kellet's ","1,855",1541.00,Los Angeles
+"Limpet, keyhole ",714,1427.00,Los Angeles
+Dolphin (fish) ,899,1396.00,Los Angeles
+"Mackerel, jack ","16,944",1391.00,Los Angeles
+"Croaker, white ","1,258",1104.00,Los Angeles
+Bat star ,85,855.00,Los Angeles
+Sea stars ,81,831.00,Los Angeles
+"Herring, round ","8,407",530.00,Los Angeles
+"Shark, brown smoothhound ",86,516.00,Los Angeles
+"Sole, English ",505,514.00,Los Angeles
+"Shark, bigeye thresher ",451,512.00,Los Angeles
+"Hagfish, unspecified ",213,426.00,Los Angeles
+"Bonito, Pacific ","1,293",363.00,Los Angeles
+Yellowtail ,213,311.00,Los Angeles
+"Sole, unspecified ",311,219.00,Los Angeles
+"Rockfish, gopher ",140,210.00,Los Angeles
+"Lizardfish, California ",266,200.00,Los Angeles
+"Rockfish, blackgill ",97,194.00,Los Angeles
+"Shrimp, unspecified ",75,188.00,Los Angeles
+"Fish, unspecified ","4,915",180.00,Los Angeles
+"Sheephead, California ",78,156.00,Los Angeles
+"Crab, yellow rock ",85,148.00,Los Angeles
+"Shark, Pacific angel ",145,121.00,Los Angeles
+"Sole, curlfin ",70,105.00,Los Angeles
+Bryozoan ,16,82.00,Los Angeles
+Sanddab ,87,68.00,Los Angeles
+"Algae, marine ",5,54.00,Los Angeles
+"Sole, rex ",57,43.00,Los Angeles
+"Crab, spider/sheep claws ",28,42.00,Los Angeles
+"Crustacean, unspecified ",20,30.00,Los Angeles
+"Sole, fantail ",13,26.00,Los Angeles
+Halfmoon ,16,16.00,Los Angeles
+"Skate, unspecified ",26,16.00,Los Angeles
+"Flounder, unspecified ",9,14.00,Los Angeles
+Stingray ,854,9.00,Los Angeles
+"Crab, brown rock ",2,2.00,Los Angeles
+"Rockfish, treefish ",1,1.00,Los Angeles
+"Crab, spider ",1,1.00,Los Angeles
+"Whitefish, ocean ",1,1.00,Los Angeles
+"Anchovy, northern ",600,1.00,Los Angeles
+"Thornyhead, longspine ",15,0.00,Los Angeles
+"Lobster, California spiny ","47,633",683773.00,Los Angeles
+Swordfish ,"163,753",586312.00,Los Angeles
+"Squid, market ","1,151,624",551392.00,Los Angeles
+"Mackerel, Pacific ","2,859,882",428618.00,Los Angeles
+"Sea urchin, red ","166,635",399948.00,Los Angeles
+"Tuna, bigeye ","132,645",393290.00,Los Angeles
+"Tuna, yellowfin ","304,764",160264.00,Los Angeles
+"Halibut, California ","39,774",152062.00,Los Angeles
+"Seabass, white ","21,851",85060.00,Los Angeles
+"Tuna, bluefin ","152,927",76464.00,Los Angeles
+Opah ,"71,607",76438.00,Los Angeles
+"Prawn, spot ","3,825",58189.00,Los Angeles
+"Crab, yellow rock ","22,791",40266.00,Los Angeles
+"Hagfish, Pacific ","32,703",34938.00,Los Angeles
+"Crab, spider ","14,580",17931.00,Los Angeles
+Wahoo ,"4,904",15020.00,Los Angeles
+Flyingfish ,"3,949",13434.00,Los Angeles
+Dolphin (fish) ,"5,149",10451.00,Los Angeles
+"Bass, giant sea ","4,169",9540.00,Los Angeles
+"Tuna, skipjack ","24,499",7778.00,Los Angeles
+Pomfret ,"2,818",6085.00,Los Angeles
+"Shark, thresher ","4,175",4724.00,Los Angeles
+"Crab, brown rock ","2,214",4101.00,Los Angeles
+Yellowtail ,"2,454",3423.00,Los Angeles
+"Whelk, Kellet's ","3,805",3370.00,Los Angeles
+"Shark, shortfin mako ","3,133",3361.00,Los Angeles
+Escolar ,"3,806",3343.00,Los Angeles
+"Sheephead, California ",612,3289.00,Los Angeles
+"Ray, bat ","7,666",3049.00,Los Angeles
+"Shark, soupfin ","2,618",1901.00,Los Angeles
+"Shark, leopard ","1,919",1829.00,Los Angeles
+"Crab, red rock ",877,1618.00,Los Angeles
+"Sardine, Pacific ","231,817",1595.00,Los Angeles
+"Skate, California ","2,500",1125.00,Los Angeles
+"Crab, spider/sheep claws ",795,1035.00,Los Angeles
+"Shark, Pacific angel ","2,230",674.00,Los Angeles
+"Spearfish, shortbill ",666,666.00,Los Angeles
+"Skate, unspecified ",815,358.00,Los Angeles
+"Shark, spiny dogfish ",843,337.00,Los Angeles
+"Crab, rock unspecified ",108,199.00,Los Angeles
+"Herring, round ","1,169",175.00,Los Angeles
+"Mackerel, jack ","1,167",175.00,Los Angeles
+"Shark, bigeye thresher ",183,158.00,Los Angeles
+"Croaker, yellowfin ",58,107.00,Los Angeles
+"Snail, sea ",75,93.00,Los Angeles
+"Smelt, surf ",382,82.00,Los Angeles
+"Shark, blue ",82,82.00,Los Angeles
+"Sole, petrale ",299,78.00,Los Angeles
+Sea hare ,8,75.00,Los Angeles
+"Shark, pelagic thresher ",24,24.00,Los Angeles
+"Fish, unspecified ",20,20.00,Los Angeles
+"Sole, rock ",38,19.00,Los Angeles
+"Mackerel, unspecified ","1,041",7.00,Los Angeles
+"Sole, Dover ",7,7.00,Los Angeles
+"Tomcod, Pacific ",100,0.00,Los Angeles
+"Anchovy, northern ","22,018",0.00,Los Angeles
+Queenfish ,100,0.00,Los Angeles
+"Sculpin, yellowchin ",2,0.00,Los Angeles
+Butterfish (Pacific pompano) ,20,0.00,Los Angeles
+"Lobster, California spiny ","70,298",960971.00,Orange County
+"Prawn, spot ","3,610",81890.00,Orange County
+Sablefish ,"14,481",42622.00,Orange County
+"Tuna, bluefin ","5,497",34534.00,Orange County
+"Crab, yellow rock ","18,522",34080.00,Orange County
+"Thornyhead, shortspine ","2,296",22121.00,Orange County
+"Rockfish, vermilion ","5,514",21149.00,Orange County
+Swordfish ,"2,666",19069.00,Orange County
+"Whitefish, ocean ","4,523",16044.00,Orange County
+"Rockfish, group shelf ","4,256",13287.00,Orange County
+"Sheephead, California ","2,052",12345.00,Orange County
+"Rockfish, bocaccio ","2,939",9974.00,Orange County
+"Rockfish, blackgill ","2,221",8378.00,Orange County
+"Tuna, yellowfin ","2,138",7345.00,Orange County
+Yellowtail ,"1,660",7237.00,Orange County
+"Halibut, California ","1,415",6542.00,Orange County
+"Crab, spider ","6,279",6463.00,Orange County
+"Shark, Pacific angel ","4,371",4798.00,Orange County
+"Whelk, Kellet's ","5,113",4091.00,Orange County
+"Thornyhead, longspine ",562,3729.00,Orange County
+"Shark, soupfin ","3,045",3224.00,Orange County
+"Crab, rock unspecified ","1,340",2252.00,Orange County
+"Crab, box ",506,1518.00,Orange County
+"Rockfish, starry ",275,1493.00,Orange County
+"Shark, thresher ","1,257",1377.00,Orange County
+"Crab, red rock ",521,1291.00,Orange County
+"Sole, fantail ",220,963.00,Orange County
+"Shark, spiny dogfish ",736,736.00,Orange County
+"Bass, giant sea ",336,694.00,Orange County
+"Shark, leopard ",630,630.00,Orange County
+"Rockfish, Mexican ",121,605.00,Orange County
+"Sea urchin, red ",396,580.00,Orange County
+Lingcod ,112,574.00,Orange County
+"Ray, bat ",491,491.00,Orange County
+"Skate, unspecified ",341,341.00,Orange County
+"Octopus, unspecified ",52,312.00,Orange County
+"Hagfish, unspecified ",273,273.00,Orange County
+"Rockfish, bank ",48,217.00,Orange County
+"Seabass, white ",37,206.00,Orange County
+"Rockfish, rosethorn ",28,168.00,Orange County
+"Shark, shortfin mako ",105,155.00,Orange County
+"Rockfish, copper ",23,138.00,Orange County
+"Rockfish, greenstriped ",22,132.00,Orange County
+"Rockfish, blue ",18,108.00,Orange County
+"Rockfish, group slope ",26,104.00,Orange County
+"Shark, brown smoothhound ",100,100.00,Orange County
+"Rockfish, speckled ",16,96.00,Orange County
+"Crab, brown rock ",55,94.00,Orange County
+"Rockfish, rosy ",14,84.00,Orange County
+"Hagfish, Pacific ",80,80.00,Orange County
+"Rockfish, flag ",12,62.00,Orange County
+"Shark, swell ",59,59.00,Orange County
+"Bonito, Pacific ",50,50.00,Orange County
+"Mackerel, jack ",20,40.00,Orange County
+"Mackerel, Pacific ",12,22.00,Orange County
+"Guitarfish, shovelnose ",15,15.00,Orange County
+"Rockfish, greenblotched ",4,13.00,Orange County
+"Rockfish, chilipepper ",4,11.00,Orange County
+"Midshipman, plainfin ",4,4.00,Orange County
+"Anchovy, northern ","12,750",0.00,Orange County
+"Sardine, Pacific ","129,035",0.00,Orange County
+Swordfish ,"38,453",232661.00,Orange County
+"Lobster, California spiny ","10,061",130631.00,Orange County
+Sablefish ,"30,889",113213.00,Orange County
+"Thornyhead, shortspine ","10,913",87965.00,Orange County
+"Prawn, spot ","3,786",37860.00,Orange County
+"Rockfish, blackgill ","5,845",17521.00,Orange County
+"Rockfish, vermilion ","5,775",16148.00,Orange County
+"Crab, yellow rock ","7,197",10815.00,Orange County
+"Prawn, ridgeback ","4,137",10343.00,Orange County
+"Tuna, bluefin ","2,132",8471.00,Orange County
+"Sheephead, California ","1,540",7880.00,Orange County
+"Whitefish, ocean ","2,815",7496.00,Orange County
+"Rockfish, bocaccio ","2,637",6139.00,Orange County
+"Thornyhead, longspine ","2,030",5785.00,Orange County
+"Rockfish, starry ","2,183",5469.00,Orange County
+"Rockfish, aurora ","1,312",3888.00,Orange County
+"Rockfish, widow ","1,514",3826.00,Orange County
+"Tuna, yellowfin ","1,102",2562.00,Orange County
+Yellowtail ,638,2005.00,Orange County
+Cabezon ,270,1556.00,Orange County
+"Whelk, Kellet's ","1,507",1205.00,Orange County
+"Rockfish, greenspotted ",418,1114.00,Orange County
+Lingcod ,359,1077.00,Orange County
+"Rockfish, greenstriped ",377,1023.00,Orange County
+"Mackerel, Pacific ","2,184",891.00,Orange County
+"Crab, spider ",707,750.00,Orange County
+"Rockfish, group shelf ",244,549.00,Orange County
+"Sole, Dover ",188,547.00,Orange County
+"Rockfish, rosy ",176,457.00,Orange County
+"Sanddab, Pacific ",159,413.00,Orange County
+"Rockfish, flag ",142,394.00,Orange County
+"Halibut, California ",93,380.00,Orange County
+"Rockfish, yellowtail ",84,252.00,Orange County
+"Rockfish, chilipepper ",108,245.00,Orange County
+"Scorpionfish, California ",63,231.00,Orange County
+"Shark, shortfin mako ",92,184.00,Orange County
+"Crab, red rock ",108,184.00,Orange County
+"Octopus, unspecified ",80,130.00,Orange County
+"Shark, bigeye thresher ",124,124.00,Orange County
+"Crab, brown rock ",69,117.00,Orange County
+"Rockfish, grass ",8,80.00,Orange County
+Escolar ,70,80.00,Orange County
+"Rockfish, squarespot ",32,79.00,Orange County
+"Crab, rock unspecified ",78,78.00,Orange County
+"Whiting, Pacific ",26,72.00,Orange County
+"Rockfish, Mexican ",6,12.00,Orange County
+"Sole, petrale ",2,4.00,Orange County
+Grenadier ,1,1.00,Orange County
+"Sardine, Pacific ","120,005",0.00,Orange County
+"Croaker, white ",100,0.00,Orange County
+"Anchovy, northern ","3,600",0.00,Orange County
+"Lobster, California spiny ","25,020",355443.00,Los Angeles
+"Crab, yellow rock ","76,355",142546.00,Los Angeles
+"Prawn, spot ","6,506",100848.00,Los Angeles
+"Mackerel, Pacific ","136,781",54194.00,Los Angeles
+"Rockfish, vermilion ","5,325",13552.00,Los Angeles
+"Crab, spider ","2,495",4104.00,Los Angeles
+"Crab, red rock ","2,115",3852.00,Los Angeles
+"Rockfish, bocaccio ","1,232",2111.00,Los Angeles
+"Whelk, Kellet's ","2,553",2059.00,Los Angeles
+"Crab, rock unspecified ",977,1954.00,Los Angeles
+"Rockfish, unspecified ","1,063",1826.00,Los Angeles
+Lingcod ,618,1230.00,Los Angeles
+"Rockfish, Mexican ",558,860.00,Los Angeles
+"Rockfish, starry ",305,583.00,Los Angeles
+Mussel ,"1,450",580.00,Los Angeles
+"Shark, shortfin mako ",218,469.00,Los Angeles
+"Crab, brown rock ",231,404.00,Los Angeles
+"Tuna, bluefin ",95,380.00,Los Angeles
+"Shark, thresher ",180,360.00,Los Angeles
+"Rockfish, greenblotched ",101,302.00,Los Angeles
+"Sea urchin, red ",71,284.00,Los Angeles
+"Rockfish, widow ",108,162.00,Los Angeles
+"Whitefish, ocean ",37,52.00,Los Angeles
+Sanddab ,22,22.00,Los Angeles
+"Mackerel, jack ",5,10.00,Los Angeles
+"Lobster, California spiny ","27,644",390993.00,Los Angeles
+"Sardine, Pacific ","183,044",39289.00,Los Angeles
+"Halibut, California ","1,072",4188.00,Los Angeles
+"Sea urchin, red ","1,033",4125.00,Los Angeles
+"Mackerel, Pacific ","11,236",2119.00,Los Angeles
+"Rockfish, vermilion ",164,382.00,Los Angeles
+"Anchovy, northern ","6,060",225.00,Los Angeles
+"Shark, leopard ",124,124.00,Los Angeles
+"Ray, bat ",263,105.00,Los Angeles
+"Skate, unspecified ",102,41.00,Los Angeles
+"Shark, thresher ",33,33.00,Los Angeles
+"Skate, California ",72,29.00,Los Angeles
+"Shark, soupfin ",39,23.00,Los Angeles
+"Rockfish, greenblotched ",23,23.00,Los Angeles
+"Whelk, Kellet's ",26,21.00,Los Angeles
+"Shark, shortfin mako ",12,12.00,Los Angeles
+"Rockfish, greenspotted ",12,12.00,Los Angeles
+"Sole, petrale ",15,7.00,Los Angeles
+"Rockfish, greenstriped ",5,5.00,Los Angeles
+"Rockfish, Mexican ",5,5.00,Los Angeles
+"Crab, yellow rock ",275,2.00,Los Angeles
+"Rockfish, speckled ",2,2.00,Los Angeles
+"Crab, spider ",15,0.00,Los Angeles
+"Crab, brown rock ",6,0.00,Los Angeles
+"Crab, red rock ",39,0.00,Los Angeles
+"Lobster, California spiny ","19,621",281284.00,Los Angeles
+"Prawn, ridgeback ","8,242",19501.00,Los Angeles
+"Sea urchin, red ","7,288",18075.00,Los Angeles
+Sablefish ,"2,977",5954.00,Los Angeles
+"Thornyhead, shortspine ","1,325",5302.00,Los Angeles
+"Crab, red rock ",993,2222.00,Los Angeles
+"Sheephead, California ",295,1623.00,Los Angeles
+"Rockfish, blackgill ",625,1249.00,Los Angeles
+"Thornyhead, longspine ",397,795.00,Los Angeles
+"Whelk, Kellet's ",619,495.00,Los Angeles
+Sanddab ,31,107.00,Los Angeles
+"Crab, spider ",73,95.00,Los Angeles
+"Sanddab, Pacific ",25,88.00,Los Angeles
+"Crab, yellow rock ",24,43.00,Los Angeles
+"Octopus, unspecified ",6,33.00,Los Angeles
+"Sole, Dover ",11,22.00,Los Angeles
+"Rockfish, vermilion ",8,15.00,Los Angeles
+"Rockfish, aurora ",5,10.00,Los Angeles
+"Croaker, white ",15,0.00,Los Angeles
+"Squid, market ","15,068",0.00,Los Angeles
+"Sardine, Pacific ","49,023",0.00,Los Angeles
+"Halibut, California ",12,0.00,Los Angeles
+"Snails, moon ",5,0.00,Los Angeles
+"Ray, bat ",20,0.00,Los Angeles
+"Sole, English ",25,0.00,Los Angeles
+"Shark, Pacific angel ",25,0.00,Los Angeles
+"Lobster, California spiny ","14,026",201143.00,Los Angeles
+Swordfish ,"8,642",77992.00,Los Angeles
+"Tuna, bluefin ","2,432",10321.00,Los Angeles
+"Seabass, white ",979,5802.00,Los Angeles
+"Tuna, albacore ","1,490",4098.00,Los Angeles
+Yellowtail ,"1,376",4061.00,Los Angeles
+Sanddab ,610,2286.00,Los Angeles
+"Sanddab, Pacific ",269,1013.00,Los Angeles
+"Bass, giant sea ",114,570.00,Los Angeles
+"Prawn, spot ",464,464.00,Los Angeles
+"Shark, shortfin mako ",137,274.00,Los Angeles
+"Shark, thresher ",89,178.00,Los Angeles
+"Tuna, yellowfin ",148,125.00,Los Angeles
+"Sea urchin, red ",20,90.00,Los Angeles
+"Octopus, unspecified ",62,62.00,Los Angeles
+"Crab, yellow rock ",33,36.00,Los Angeles
+"Halibut, California ",16,16.00,Los Angeles
+"Crab, red rock ",10,13.00,Los Angeles
+"Whelk, Kellet's ",20,10.00,Los Angeles
+"Crab, king ",8,8.00,Los Angeles
+"Crab, box ",8,0.00,Los Angeles
+Dolphin (fish) ,22,0.00,Los Angeles
+"Prawn, Spot ","4,451",100288.00,Orange County
+"Sanddab, Pacific ","5,088",25457.00,Orange County
+"Sheephead, California ","4,538",20849.00,Orange County
+Sanddab ,"3,506",17353.00,Orange County
+"Scorpionfish, California ","2,819",16831.00,Orange County
+Sablefish ,"4,864",14593.00,Orange County
+"Crab, yellow rock ","2,986",8958.00,Orange County
+"Whitefish, ocean ","1,661",6308.00,Orange County
+"Crab, red rock ","1,852",5556.00,Orange County
+"Rockfish, greenblotched ",673,3408.00,Orange County
+"Thornyhead, shortspine ",153,1449.00,Orange County
+"Rockfish, blackgill ",674,1348.00,Orange County
+"Rockfish, group shelf ",298,894.00,Orange County
+Yellowtail ,213,746.00,Orange County
+"Rockfish, greenstriped ",144,720.00,Orange County
+"Rockfish, vermilion ",117,702.00,Orange County
+"Tuna, bluefin ",145,616.00,Orange County
+"Crab, spider ",204,612.00,Orange County
+"Rockfish, greenspotted ",96,576.00,Orange County
+"Shark, thresher ",420,492.00,Orange County
+Lingcod ,45,243.00,Orange County
+"Shark, pelagic thresher ",200,200.00,Orange County
+"Sunfish, ocean ",11,55.00,Orange County
+"Lobster, California spiny ","1,673",25730.00,Los Angeles
+"Crab, rock unspecified ","1,300",1550.00,Los Angeles
+"Crab, spider ",320,320.00,Los Angeles
+"Sheephead, California ",95,285.00,Los Angeles
+"Whelk, Kellet's ",78,62.00,Los Angeles
+"Crab, yellow rock ",4,7.00,Los Angeles
+"Halibut, California ",844,7637.00,Los Angeles
+"Tuna, bluefin ",266,1463.00,Los Angeles
+Sea hare ,84,843.00,Los Angeles
+"Sea urchin, purple ",75,750.00,Los Angeles
+"Tuna, yellowfin ",128,704.00,Los Angeles
+"Sea urchin, red ",121,484.00,Los Angeles
+Bat star ,36,364.00,Los Angeles
+Sea stars ,35,139.00,Los Angeles
+"Sea urchin, white ",1,100.00,Los Angeles
+"Sole, unspecified ",16,87.00,Los Angeles
+Mussel ,4,75.00,Los Angeles
+"Snail, sea ",0,63.00,Los Angeles
+"Kelp, giant ",9,43.00,Los Angeles
+"Octopus, unspecified ",1,25.00,Los Angeles
+Yellowtail ,8,23.00,Los Angeles
+"Mackerel, Pacific ",300,0.00,Los Angeles
+"Sardine, Pacific ","2,100",0.00,Los Angeles
+"Prawn, spot ",540,8372.00,Los Angeles
+"Halibut, California ",123,980.00,Los Angeles
+"Sea urchin, red ",108,297.00,Los Angeles
+"Whitefish, ocean ",48,168.00,Los Angeles
+Yellowtail ,12,58.00,Los Angeles
+"Seabass, white ",79,316.00,Los Angeles
+"Halibut, California ",25,156.00,Los Angeles
+Yellowtail ,15,57.00,Los Angeles
