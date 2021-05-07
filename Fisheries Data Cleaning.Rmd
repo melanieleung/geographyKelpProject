@@ -35,5 +35,22 @@ eureka <- eureka %>% group_by(County) %>% summarise(Total_Value = sum(Value))
 
 ```
 
+San Francisco Area
+```{r}
+bay_area <- read.csv("table17PUB_2019.csv")
+
+
+
+
+
+
+```
+
+
+
+
+
+
+
 
 
