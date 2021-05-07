@@ -9,19 +9,31 @@ Methods
 ```{r}
 #List of kelp forest fish species 
 ##sheephead, sea urchin(all), rockfish, cabezon, spiny lobster, giant kelpfish,scorpionfish, giant sea bass, kelp bass
-###Filter datat to only include these species, and none else
+###Filter data to only include these species, and none else
+```
+
+```{r}
+library(dplyr)
+library(stringr)
+
+
 ```
 
 Eureka
 ```{r}
+eureka <- read.csv("Table16PUB_2019_ADA.csv")
 
+eureka <- eureka  %>% filter(str_detect(Species, "Rockfish|Sheephead|Sea Urchin|Cabezon|Lobster|Kelpfish|Scorpionfish|Sea Bass|Kelp Bass|Sea Urchin"))
 
+eureka[,c("Species", "Pounds")] <- NULL
 
-
+eureka <- eureka %>% group_by(County) %>% summarise(Total_Value = sum(Value))
 
 
 
 
 
 ```
+
+
 
