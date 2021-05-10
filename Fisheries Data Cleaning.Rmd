@@ -46,6 +46,10 @@ combined_data[,c("Species", "Pounds")] <- NULL
 combined_data <- combined_data %>% mutate(Value = as.numeric(Value))
 
 combined_data <- combined_data %>% group_by(County) %>% summarise(total_value = sum(Value))
+
+combined_data <- rename(combined_data, COUNTY_NAM = County)
+
+combined_data$COUNTY_NAM <- str_remove(combined_data$COUNTY_NAM, "County")
 ```
 
 
