@@ -19,6 +19,8 @@ library(stringr)
 
 Combined and Cleaned Fisheries Data
 ```{r}
+#Upload data frames of fishing data from parts of California  
+
 eureka <- read.csv("Table16PUB_2019_ADA.csv")
 
 bay_area <- read.csv("table17PUB_2019.csv")
@@ -37,7 +39,11 @@ slo <- read.csv("Table21MBPUB_2019_ADA.csv")
 
 san_diego <- read.csv("Table21SDPUB_2019_ADA.csv")
 
+#Combine data frames into one
+
 combined_data <- do.call("rbind", list(eureka, bay_area, monterey, sb, Sonoma, mendicino, slo, san_diego))
+
+#Filter data to only include kelp forest fish then summarize by county, and total value
 
 combined_data <- combined_data  %>% filter(str_detect(Species, "Rockfish|Sheephead|Sea Urchin|Cabezon|Lobster|Kelpfish|Scorpionfish|Sea Bass|Kelp Bass|Sea Urchin"))
 
@@ -49,7 +55,11 @@ combined_data <- combined_data %>% group_by(County) %>% summarise(total_value = 
 
 combined_data <- rename(combined_data, COUNTY_NAM = County)
 
+#Rename column to match data frame in ArcGIS, and export finished file 
+
 combined_data$COUNTY_NAM <- str_remove(combined_data$COUNTY_NAM, "County")
+
+write.csv(combined_data, "C:\\Users\\dim\\desktop\\combined_data.csv", row.names = FALSE)
 ```
 
 
