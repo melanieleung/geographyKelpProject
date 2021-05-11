@@ -57,7 +57,7 @@ combined_data <- rename(combined_data, NAME = County)
 
 #Rename column to match data frame in ArcGIS, and export finished file 
 
-combined_data$COUNTY_NAM <- str_remove(combined_data$NAME, "County")
+combined_data$NAME <- str_remove(combined_data$NAME, "County")
 
 write.csv(combined_data, "C:\\Users\\dim\\desktop\\combined_data.csv", row.names = FALSE)
 ```
