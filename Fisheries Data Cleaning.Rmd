@@ -53,11 +53,11 @@ combined_data <- combined_data %>% mutate(Value = as.numeric(Value))
 
 combined_data <- combined_data %>% group_by(County) %>% summarise(total_value = sum(Value))
 
-combined_data <- rename(combined_data, COUNTY_NAM = County)
+combined_data <- rename(combined_data, NAME = County)
 
 #Rename column to match data frame in ArcGIS, and export finished file 
 
-combined_data$COUNTY_NAM <- str_remove(combined_data$COUNTY_NAM, "County")
+combined_data$COUNTY_NAM <- str_remove(combined_data$NAME, "County")
 
 write.csv(combined_data, "C:\\Users\\dim\\desktop\\combined_data.csv", row.names = FALSE)
 ```
